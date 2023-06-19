@@ -1,0 +1,14 @@
+whisper
+pydub
+SpeechRecognition
+spacy
+transformers
+librosa
+numpy
+scikit-learn
+pyannote.audio
+SpeechRecognition
+spacy
+torch
+wave
+sklearn
